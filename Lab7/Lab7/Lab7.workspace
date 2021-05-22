@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Lab7" Database="" Version="10.0.0">
+  <Project Name="program1" Path="program1/program1.project" Active="Yes"/>
+  <Project Name="program2" Path="program2/program2.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="program1" ConfigName="Debug"/>
+      <Project Name="program2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="program1" ConfigName="Release"/>
+      <Project Name="program2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
