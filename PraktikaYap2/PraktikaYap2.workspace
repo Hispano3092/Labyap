@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="PraktikaYap2" Database="" Version="10.0.0">
+  <Project Name="program1" Path="program1/program1.project" Active="No"/>
+  <Project Name="program2" Path="program2/program2.project" Active="No"/>
+  <Project Name="program3" Path="program3/program3.project" Active="No"/>
+  <Project Name="program4" Path="program4/program4.project" Active="No"/>
+  <Project Name="program5" Path="program5/program5.project" Active="No"/>
+  <Project Name="program6" Path="program6/program6.project" Active="No"/>
+  <Project Name="program7" Path="program7/program7.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="program1" ConfigName="Debug"/>
+      <Project Name="program2" ConfigName="Debug"/>
+      <Project Name="program3" ConfigName="Debug"/>
+      <Project Name="program4" ConfigName="Debug"/>
+      <Project Name="program5" ConfigName="Debug"/>
+      <Project Name="program6" ConfigName="Debug"/>
+      <Project Name="program7" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="program1" ConfigName="Release"/>
+      <Project Name="program2" ConfigName="Release"/>
+      <Project Name="program3" ConfigName="Release"/>
+      <Project Name="program4" ConfigName="Release"/>
+      <Project Name="program5" ConfigName="Release"/>
+      <Project Name="program6" ConfigName="Release"/>
+      <Project Name="program7" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
